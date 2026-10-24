@@ -11,9 +11,7 @@ A Power BI report on 2024 UPI transactions. It shows how transaction amounts and
 | <img width="1127" height="637" alt="Dashboard_P2" src="https://github.com/user-attachments/assets/ec8198cf-2586-4dbb-820f-53f49c92e291" /> |
 
 ## Data Model
-| <img width="1475" height="740" alt="Data_Model_UPI" src="https://github.com/user-attachments/assets/5c6da26c-b743-4479-bc25-6e7aaab25060" /> |
-
-
+|<img width="1475" height="740" alt="Data_Model_UPI" src="https://github.com/user-attachments/assets/5c6da26c-b743-4479-bc25-6e7aaab25060" /> 
 
 
 ## What's in the report

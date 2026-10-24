@@ -4,9 +4,11 @@ A Power BI report on 2024 UPI transactions. It shows how transaction amounts and
 
 | Amount by month | Balance by month |
 |---|---|
-| ![Amount trend](screenshots/Dashboard_2.png) | ![Balance trend](screenshots/Dashboard_3.png) |
+| <img width="1127" height="640" alt="Dashboard_2" src="https://github.com/user-attachments/assets/2036541b-a5ae-4230-afaf-d4ca7d17e54f" /> |
+| <img width="1121" height="632" alt="Dashboard_3" src="https://github.com/user-attachments/assets/4d23076c-eaa9-4a62-bdaf-fddff5042bac" /> |
+| <img width="1127" height="637" alt="Dashboard_P2" src="https://github.com/user-attachments/assets/ec8198cf-2586-4dbb-820f-53f49c92e291" /> |
 
-![City, currency and month matrix](screenshots/Dashboard_P2.png)
+
 
 ## What's in the report
 

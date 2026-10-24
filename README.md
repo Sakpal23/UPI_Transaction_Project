@@ -43,13 +43,11 @@ A Power BI report on 2024 UPI transactions. It shows how transaction amounts and
 **Age_Groups** (calculated column): groups customers into three age bands so they can be used in a slicer.
 
 ```DAX
-Age_Groups =
-SWITCH(
-    TRUE(),
-    UPI_Transaction[CustomerAge] <= 25, "Up to 25",
-    UPI_Transaction[CustomerAge] <= 35, "26-35",
-    "36 and above"
-)
+Age_Groups = If(UPI_Transaction[CustomerAge]<=25,"A",
+             IF(UPI_Transaction[CustomerAge]<=35,"A2","A3")
+             ) 
+   
+
 ```
 
 Other totals use Power BI's default sum on `Amount` and `RemainingBalance`.
